@@ -7,7 +7,6 @@ data.head()
 
 G=nx.MultiDiGraph()
 G=nx.from_pandas_edgelist(data,source="De",target="À",edge_attr="Distance")
-#G=G.to_directed()
 
 #Création du tableau des choix des communes possibles
 communes=["Abymes","Anse-Bertrand","Baie-Mahault","Baillif","Bouillante","Capesterre","Deshaies","Gosier","Gourbeyre","Goyave","Lamentin","Morne à l eau","Le Moule","Petit  Bourg","Petit Canal","Port-Louis","Pointe-Noire","Pointe à Pitre","Sainte-Anne","Saint-Claude","Saint-François","Saint-Rose","Trois-Rivières","Vieux-Fort","Vieux-Habitants"]
@@ -30,6 +29,7 @@ while response==True and i<5:
         i=i+1
     else:
         response=False
+        
 #On cherche le cycle qui contient tous les points de livraison et commencant au point de depart
 trajet=nx.approximation.traveling_salesman_problem(G,weight="Distance",nodes=pointsLivraison,cycle=True)
 
