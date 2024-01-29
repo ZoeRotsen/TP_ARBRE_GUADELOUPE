@@ -1,0 +1,69 @@
+De,À,Distance
+Abymes,Baie-Mahault,12
+Abymes,Morne à l’eau,9
+Abymes,Moule,22
+Abymes,Point-à-Pitre,5
+Anse-Bertrand,Port-Louis,9
+Anse-Bertrand,Moule,32
+Baie-Mahault,Abymes,12
+Baie-Mahault,Point-à-Pitre,9
+Baie-Mahault,Lamentin,7
+Baie-Mahault,Petit Bourg,10
+Baillif,Saint-Claude,9
+Baillif,Vieux-Fort,11
+Baillif,Gourbeyre,9
+Baillif,Vieux-Habitants,7
+Bouillante,Pointe-Noire,16
+Bouillante,Vieux-Habitants,11
+Capesterre,Goyave,12
+Capesterre,Trois-Rivières,13
+Deshaies,Sainte-Rose,17
+Deshaies,Pointe-Noire,14
+Gosier,Point-à-Pitre,9
+Gosier,Sainte-Anne,14
+Gourbeyre,Baillif,9
+Gourbeyre,Saint-Claude,11
+Gourbeyre,Vieux-Fort,10
+Gourbeyre,Trois-Rivières,8
+Goyave,Petit Bourg,8
+Goyave,Capesterre,12
+Lamentin,Baie-Mahault,7
+Lamentin,Sainte-Rose,12
+Morne à l’eau,Moule,13
+Morne à l’eau,Abymes,9
+Morne à l’eau,Petit Canal,8
+Moule,Anse-Bertrand,32
+Moule,Saint-François,14
+Moule,Morne à l’eau,13
+Moule,Sainte-Anne,29
+Moule,Abymes,22
+Petit Bourg,Pointe-Noire,35
+Petit Bourg,Baie-Mahault,10
+Petit Bourg,Goyave,8
+Petit Canal,Port-Louis,9
+Petit Canal,Morne à l’eau,8
+Port-Louis,Petit Canal,9
+Port-Louis,Anse-Bertrand,9
+Pointe-Noire,Deshaies,14
+Pointe-Noire,Bouillante,16
+Pointe-Noire,Petit Bourg,35
+Point-à-Pitre,Abymes,5
+Point-à-Pitre,Baie-Mahault,9
+Point-à-Pitre,Gosier,9
+Sainte-Anne,Moule,29
+Sainte-Anne,Saint-François,15
+Sainte-Anne,Gosier,14
+Saint-Claude,Baillif,9
+Saint-Claude,Gourbeyre,11
+Saint-François,Moule,14
+Saint-François,Sainte-Anne,15
+Sainte-Rose,Lamentin,12
+Sainte-Rose,Deshaies,17
+Trois-Rivières,Vieux-Fort,9
+Trois-Rivières,Capesterre,13
+Trois-Rivières,Gourbeyre,8
+Vieux-Fort,Baillif,11
+Vieux-Fort,Gourbeyre,8
+Vieux-Fort,Trois-Rivières,9
+Vieux-Habitants,Bouillante,11
+Vieux-Habitants,Baillif,7
