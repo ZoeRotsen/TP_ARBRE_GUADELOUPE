@@ -1,6 +1,6 @@
 De,À,Distance
 Abymes,Baie-Mahault,12
-Abymes,Morne à l’eau,9
+Abymes,Morne à l eau,9
 Abymes,Moule,22
 Abymes,Point-à-Pitre,5
 Anse-Bertrand,Port-Louis,9
@@ -29,19 +29,19 @@ Goyave,Petit Bourg,8
 Goyave,Capesterre,12
 Lamentin,Baie-Mahault,7
 Lamentin,Sainte-Rose,12
-Morne à l’eau,Moule,13
-Morne à l’eau,Abymes,9
-Morne à l’eau,Petit Canal,8
+Morne à l eau,Moule,13
+Morne à l eau,Abymes,9
+Morne à l eau,Petit Canal,8
 Moule,Anse-Bertrand,32
 Moule,Saint-François,14
-Moule,Morne à l’eau,13
+Moule,Morne à l eau,13
 Moule,Sainte-Anne,29
 Moule,Abymes,22
 Petit Bourg,Pointe-Noire,35
 Petit Bourg,Baie-Mahault,10
 Petit Bourg,Goyave,8
 Petit Canal,Port-Louis,9
-Petit Canal,Morne à l’eau,8
+Petit Canal,Morne à l eau,8
 Port-Louis,Petit Canal,9
 Port-Louis,Anse-Bertrand,9
 Pointe-Noire,Deshaies,14
